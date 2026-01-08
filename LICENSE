@@ -1,56 +1,52 @@
-# BlackRoad OS, Inc. Proprietary License
+PROPRIETARY LICENSE
 
 Copyright (c) 2026 BlackRoad OS, Inc.
-Copyright (c) 2026 Alexa Amundson
+All Rights Reserved.
 
-## Terms and Conditions
+CEO: Alexa Amundson
+Organization: BlackRoad OS, Inc.
 
-### 1. Grant of Rights
+PROPRIETARY AND CONFIDENTIAL
 
-This software and associated documentation files (the "Software") are made
-publicly available for **transparency, auditing, testing, and development purposes only**.
+This software and associated documentation files (the "Software") are the
+proprietary and confidential information of BlackRoad OS, Inc.
 
-### 2. Permitted Uses
+GRANT OF LICENSE:
+Subject to the terms of this license, BlackRoad OS, Inc. grants you a
+limited, non-exclusive, non-transferable, revocable license to:
+- View and study the source code for educational purposes
+- Use the Software for testing and evaluation purposes only
+- Fork the repository for personal experimentation
 
-You MAY:
-- ✅ View, read, and audit the source code
-- ✅ Use the software for testing and development
-- ✅ Modify the software for personal use
-- ✅ Report bugs and suggest improvements
-- ✅ Learn from the code for educational purposes
+RESTRICTIONS:
+You may NOT:
+- Use the Software for any commercial purpose
+- Resell, redistribute, or sublicense the Software
+- Use the Software in production environments without written permission
+- Remove or modify this license or any copyright notices
+- Create derivative works for commercial distribution
 
-### 3. Restrictions
+TESTING ONLY:
+This Software is provided purely for testing, evaluation, and educational
+purposes. It is NOT licensed for commercial use or resale.
 
-You MAY NOT:
-- ❌ Use this software for commercial purposes
-- ❌ Resell, relicense, or redistribute this software commercially
-- ❌ Remove or modify this license or copyright notices
-- ❌ Use BlackRoad trademarks without permission
-- ❌ Claim this software as your own
+INFRASTRUCTURE SCALE:
+This Software is designed to support:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- Enterprise-scale operations under BlackRoad OS, Inc.
 
-### 4. Commercial Use
+CORE PRODUCT:
+API layer above Google, OpenAI, and Anthropic that manages AI model
+memory and continuity, enabling entire companies to operate exclusively by AI.
+
+OWNERSHIP:
+All intellectual property rights remain the exclusive property of
+BlackRoad OS, Inc.
 
 For commercial licensing inquiries, contact:
-- Email: blackroad.systems@gmail.com
-- GitHub: @blackboxprogramming
+BlackRoad OS, Inc.
+Alexa Amundson, CEO
+blackroad.systems@gmail.com
 
-### 5. Disclaimer
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-### 6. Ownership
-
-All rights, title, and interest in and to the Software remain with
-BlackRoad OS, Inc. and Alexa Amundson.
-
----
-
-**BlackRoad OS, Inc.**
-Digital Sovereignty Infrastructure
-One person + AI agents managing 30,000 AI agents + 30,000 humans
+Last Updated: 2026-01-08
